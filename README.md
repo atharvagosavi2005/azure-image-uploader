@@ -58,7 +58,9 @@ python app.py
 
 ## 📷 Screenshot
 
-*(Upload a screenshot of the app UI here)*
+*( a screenshot of the app UI here)*
+![Screenshot (34)](https://github.com/user-attachments/assets/af8b37ea-a8f5-4cb9-b55e-a26ffb008706)
+
 
 ## 🧠 Learning Outcome
 
